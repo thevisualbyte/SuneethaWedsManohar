@@ -12,3 +12,9 @@ Publish:
 2. Upload the extracted contents to the root of the correct GitHub repository.
 3. Commit the changes.
 4. In Settings > Pages, ensure the intended branch and root folder are selected.
+
+Update (Haldi location):
+- Haldi card now shows "Memories Box, Tirupati" with a View on Map link.
+- Orange cloud hero kept as supplied (no blue sky).
+- Photos and logo are now embedded in index.html (loads reliably); photo files resized.
+- Page no longer fails if the browser's scroll-reveal feature is unavailable.
